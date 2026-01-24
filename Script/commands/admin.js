@@ -7,7 +7,7 @@ module.exports.config = {
     name: "admin",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "ULLASH", //don't change my credit 
+    credits: "SHOAIB", //don't change my credit 
     description: "Show Owner Info",
     commandCategory: "info",
     usages: "",
@@ -22,7 +22,25 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 𝐍𝐚𝐦𝐞      :Shoaib 
+┃ 👤 𝐍𝐚𝐦𝐞   👤 SHOAIB"সোয়াইব
+📍 Mymensingh, Bangladesh
+📞 [ inbox ]
+📧 [inbox ]
+• 📅 Date of Birth: [20/1/2007]🌈
+• 🇧🇩 Nationality: Bangladeshi🥀
+• 💍 Marital Status: Ultra jonmogoto Single😅
+• 🏠 Home Town: Mymensingh
+🔗 [https://www.facebook.com/share/1AZD9mMW33/?mibextid=wwXIfr] 
+🛠 SKILLS
+• 💻 Computer: Basic MS Office (Word, Excel), Internet Research.
+• 🗣️ Languages: Bengali (Native), English (Conversational).
+• 🤝 Soft Skills: Teamwork, Time Management, Quick Problem Solving.
+🎨 INTERESTS & HOBBIES
+• 📖 Reading Tech Blogs
+• ⚽ Playing Football / Cricket
+• ✈️ Traveling & Exploring New Places
+✨ FINAL WORD ✨
+"I believe in honesty and hard work. Everything I do, I do with all my heart!" ❤️
 ┗━━━━━━━━━━━━━━━━━━━━━┛
         `,
         attachment: fs.createReadStream(__dirname + "/cache/1.png")
